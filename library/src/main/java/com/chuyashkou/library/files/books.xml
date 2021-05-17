@@ -1,0 +1,30 @@
+<?xml version = "1.0" encoding="UTF-8" ?>
+
+<books>
+    <book>
+        <title>Война и мир</title>
+        <author>Толстой</author>
+        <genre>Romance</genre>
+        <isbn>16516516</isbn>
+    </book>
+
+    <book>
+        <title>Процесс</title>
+        <author>Кафка</author>
+        <genre>Dystopian</genre>
+        <isbn>165166</isbn>
+    </book>
+
+    <book>
+        <title>Мартин Иден</title>
+        <author>Джек Лондон</author>
+        <genre>Romance</genre>
+        <isbn>61651651</isbn>
+    </book>
+    <book>
+        <title>Библия</title>
+        <author>Иисус</author>
+        <genre>Horror</genre>
+        <isbn>516516</isbn>
+    </book>
+</books>
